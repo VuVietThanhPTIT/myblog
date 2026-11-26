@@ -16,6 +16,7 @@ draft: false
 When I'm cooking, as usual I play youtube. Randomly, I saw this video, she said that she had  heard a definition about introvert person is a person who put more their attention and energy into their inner world.
 ![](img1.png)
 [why quiet people are so attractive (an introvert’s story)](https://youtu.be/n2aOC0vOwLg?si=GTK9A2pDMYz-z0fD)
+
 She said she was kind of person who could pull out a lot of energy for a short time, give it to all people, and then she was completely drained.
 
 
