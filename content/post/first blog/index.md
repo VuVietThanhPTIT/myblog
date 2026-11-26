@@ -3,7 +3,7 @@ title: "Just a moment I realize my kind of personality"
 description: "hope I will continue this habit longgg"
 slug: "first blog"
 date: 2026-11-26T21:00:00+07:00
-image: cover.png
+image: cover.jpg
 categories:
     - Thought
 tags:
